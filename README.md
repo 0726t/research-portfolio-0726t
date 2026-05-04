@@ -3,10 +3,8 @@
 ## Student Information
 - Name: Yiwen Tao
 - Student ID: 2815462
-- Module: SEMTM0045 – Data Science Methods and Practice
 
 ## Research Theme
-Theme 1: Time Series Analysis  
 Topic 3: Probabilistic Forecasting & Uncertainty  
 
 ## Project Overview
@@ -29,3 +27,9 @@ The project aims to address the limitations of traditional forecasting models by
 
 ## Status
 Work in progress – repository updated incrementally to reflect research development.
+
+## Project Management
+This project is managed using Trello for task tracking and milestone planning.
+Trello Board (Public Link):
+[]
+The development process follows an iterative workflow, with weekly updates tracked through GitHub commits.
